@@ -1,2 +1,5 @@
 # ignore the dataset
 data.csv
+
+# ignore jupyter notebook checkpoints
+.ipynb_checkpoints
