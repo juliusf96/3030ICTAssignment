@@ -1,5 +1,6 @@
 # ignore the dataset
 data.csv
+data.csv.icloud
 
 # ignore jupyter notebook checkpoints
 .ipynb_checkpoints
